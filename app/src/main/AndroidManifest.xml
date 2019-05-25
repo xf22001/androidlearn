@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.xiaofei.android_learn">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".activites.TestRecyleView"/>
+        <activity android:name=".activites.GuideActivity"/>
+        <activity android:name=".activites.MallMainActivity"/>
+        <activity android:name=".activites.BottomNav_Viewpager_Fragment"/>
+        <activity android:name=".activites.ToolbarActivity"/>
+        <activity android:name=".activites.SlidingTabLayout_Viewpager_Fragment"/>
+    </application>
+
+</manifest>

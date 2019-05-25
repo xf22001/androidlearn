@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">android-learn</string>
+    <string name="action_settings">设置</string>
+    <string name="action_client">客户端</string>
+    <string name="action_server">服务端</string>
+    <string name="str_item_transfer_progress">传输进度</string>
+    <string name="str_cancel">取消</string>
+    <string name="str_item_transfer_add">添加</string>
+    <string name="str_added">已添加</string>
+    <string name="str_clear">清除</string>
+    <string name="tab_title_me">我的</string>
+    <string name="tab_title_more">更多</string>
+    <string name="tab_title_home">首页</string>
+    <string name="tab_title_around">周边</string>
+    <string name="asyncdownload">异步下载</string>
+</resources>
