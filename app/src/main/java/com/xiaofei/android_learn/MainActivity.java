@@ -15,6 +15,7 @@ import com.xiaofei.android_learn.activites.GuideActivity;
 import com.xiaofei.android_learn.activites.SlidingTabLayout_Viewpager_Fragment;
 import com.xiaofei.android_learn.activites.TestRecyleView;
 import com.xiaofei.android_learn.activites.ToolbarActivity;
+import com.xiaofei.android_learn.activites.WaitCatDialog;
 
 
 public class MainActivity extends AppCompatActivity {
@@ -26,6 +27,7 @@ public class MainActivity extends AppCompatActivity {
             BottomNav_Viewpager_Fragment.class,
             SlidingTabLayout_Viewpager_Fragment.class,
             ToolbarActivity.class,
+            WaitCatDialog.class,
     };
 
     @Override

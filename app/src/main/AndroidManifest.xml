@@ -22,6 +22,7 @@
         <activity android:name=".activites.BottomNav_Viewpager_Fragment"/>
         <activity android:name=".activites.ToolbarActivity"/>
         <activity android:name=".activites.SlidingTabLayout_Viewpager_Fragment"/>
+        <activity android:name=".activites.WaitCatDialog"/>
     </application>
 
 </manifest>
